@@ -1,0 +1,69 @@
+@charset "UTF-8";
+*{
+	padding : 0px;
+	margin : 0px;
+}
+
+#page {
+	width : 1900px;
+	margin : auto;
+}
+
+a {
+	text-decoration : none;
+	color : black;
+}
+header ul li {
+	list-style-type : none;
+	display : inline-block;
+	font-size : 12px;
+}
+
+#top {
+	text-align : right;
+	margin : 10px 20px 10px 0px;
+}
+
+#logo {
+	text-align : center;
+}
+
+#mainlogo {
+	width : 220px;
+	height : 120px;
+	margin : 70px 0px 10px 50px;
+	text-align : center;
+}
+
+img {
+	margin-right : 70px;
+}
+
+#prodiv {
+	margin-top:50px;
+}
+
+#proname {
+	font-weight : bold;
+	font-size : 23px;
+	float : top;
+	color : #404040;
+}
+
+
+hr {
+	margin-top : 30px;
+}
+
+#btn1 {
+	background-color : #404040;
+	color : white;
+	margin-right : 10px;
+	padding : 5px;
+}
+
+#btn2 {
+	background-color : black;
+	color : white;
+	padding : 5px;
+}

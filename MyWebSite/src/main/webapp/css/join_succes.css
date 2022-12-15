@@ -1,0 +1,58 @@
+@charset "UTF-8";
+@charset "UTF-8";
+
+*{
+   padding : 0px;
+   margin : 0px;
+}
+#page {
+   width : 1900px;
+   margin : auto;
+}
+
+header ul li {
+   list-style-type : none;
+   display : inline-block;
+   font-size : 12px;
+}
+
+#top {
+   text-align : right;
+   margin : 10px 20px 10px 0px;
+}
+
+#mainlogo {
+   width : 220px;
+   height : 120px;
+   margin : 70px 0px 10px 50px;
+   text-align : center;
+}
+
+#logo {
+   text-align : center;   
+}
+
+h2{
+   text-align: center;
+   margin-top: 200px;
+   margin-bottom: 50px;
+}
+
+#gologin{
+   position: relative;
+    left:50%;
+    right:50%;
+    margin-left:-150px;
+    margin-right:-150px;
+}
+
+footer {
+   width : 1900px;
+   margin-top: 500px;
+}
+
+footer div {
+   text-align : center;
+   margin-top : 5px;
+   font-size : 12px;
+}

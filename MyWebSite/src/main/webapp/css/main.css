@@ -1,0 +1,213 @@
+@charset "UTF-8";
+*{
+	padding : 0px;
+	margin : 0px;
+}
+#page {
+	width : 1900px;
+	margin : auto;
+}
+
+a {
+	text-decoration : none;
+	color : black;
+}
+
+/* 로그인 부분 */
+header ul li {
+	list-style-type : none;
+	display : inline-block;
+	font-size : 12px;
+}
+
+#top {
+	text-align : right;
+	margin : 10px 20px 10px 0px;
+}
+
+#mainlogo {
+	width : 220px;
+	height : 120px;
+	margin : 70px 0px 10px 50px;
+	text-align : center;
+}
+
+#logo {
+	text-align : center;	
+}
+
+/* 검색부분 */
+#search {
+	text-align : center;
+	padding : 10px 0px 10px 0px;
+}
+
+#search1 {
+	width : 450px;
+	border : 1px solid lightgrey;
+	border-radius : 20px;
+	padding : 5px 0px 5px 15px;
+	font-size : 12px;
+	text-align : left;
+}
+
+#searchimg {
+	width:15px;
+	height:15px;
+}
+
+/* section1(main image|category) */
+#main {
+	margin-left : 490px;
+}
+
+/* 카테고리 부분 */
+#cat1 {
+    width:100px;
+    height: 260px;
+    float:left;
+    margin : 17px 0px 10px 70px;
+    font-weight:bold;
+    
+}
+
+#cat1 li {
+	list-style-type : none;
+}
+
+
+/* 메인 이미지 */
+#cat2 {
+	float : left;
+	margin : 13px 0px 50px 0px;
+}
+
+/* section2(best item) */
+#item h3 {
+	text-decoration: underline;
+	color: #585858;
+	text-align: center;
+	margin-bottom : 20px;
+}
+
+#item h4 {
+	margin-top : 150px;
+	text-align: center;
+	color: #474747;
+}
+
+#item ul{
+	list-style: none;
+	text-align: center;
+	display : block;
+}
+
+#item li{
+	display: inline-block;
+	margin : 10px 50px 0px 0px;
+}
+
+.best {
+	float : center;
+	margin-left : 260px;
+}
+.best ul{
+	list-style-type : none;
+	display : block;
+}
+	
+.best ul li{
+	display: inline-block;
+	float : left;
+	margin : 50px 0px 0px 0px;
+}
+
+/* section3(NEW ITEMS) */
+#item2 {
+	margin-left : 290px;
+}
+
+#item2 h3 {
+	text-decoration: underline;
+	color: #585858;
+	text-align: left;
+	margin-bottom : 10px;
+}
+
+#item2 h4 {
+	margin-top : 150px;
+	text-align: left;
+	color: #474747;
+}
+
+#item2 ul{
+	list-style: none;
+	text-align: left;
+	display : block;
+}
+
+#item2 li{
+	display: inline-block;
+	margin : 10px 10px 0px 0px;
+}
+
+.product {
+	float : left;
+}
+.product ul{
+	list-style: none;
+	display : block;
+}
+	
+.product li{
+	display: inline-block;
+	margin : 0px 0px 0px 200px;
+}
+
+/* 공지사항 */
+.nt {
+   position: relative;
+   bottom: 500px;
+   margin-right : 340px;
+   margin-top : 480px;
+}
+
+.nt h4 {
+	color: #474747;
+    position: relative;
+    margin-left : 755px;
+    margin-bottom : 5px;
+}
+
+.nt h3 {
+   text-decoration: underline;
+   color: #585858;
+   position: relative;
+   margin-left : 755px;
+   
+}
+.nt table {
+   float: right;
+   width: 500px; 
+   position: relative;
+   border-collapse : collapse;
+   font-size : 12px;
+}
+
+.nt tr,td {
+   border-top: 1px solid #585858;
+   width: 100px; 
+   height: 35px;
+   padding-left : 10px;
+}
+
+/* copyright */
+footer {
+	width : 1900px;
+}
+
+footer div {
+	text-align : center;
+	margin-top : 5px;
+	font-size : 12px;
+}

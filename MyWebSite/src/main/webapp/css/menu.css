@@ -1,0 +1,41 @@
+@charset "UTF-8";
+*{
+	padding : 0px;
+	margin : 0px;
+}
+
+#page {
+	width : 1900px;
+	margin : auto;
+}
+
+a {
+	text-decoration : none;
+	color : black;
+}
+header ul li {
+	list-style-type : none;
+	display : inline-block;
+	font-size : 12px;
+}
+
+#top {
+	text-align : right;
+	margin : 10px 20px 10px 0px;
+}
+
+#logo {
+	text-align : center;
+}
+
+#mainlogo {
+	width : 220px;
+	height : 120px;
+	margin : 70px 0px 10px 50px;
+	text-align : center;
+}
+
+p {
+	font-weight : bold;
+	font-size : 25px;
+}
