@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=6495ED&height=300&section=header&text=DoubleJ 쇼핑몰 웹사이트&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=6495ED&height=300&section=header&text=DoubleJ쇼핑몰웹사이트&fontSize=90)
 
 ### 쇼핑몰 웹사이트 FRONT-END | BACK-END
 <body>
