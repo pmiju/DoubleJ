@@ -1,6 +1,7 @@
 ![header](https://api?color=FA8072&height=300&section=header&text=DoubleJ%20쇼핑몰%20웹사이트&fontSize=50)
-
-### 쇼핑몰 웹사이트 FRONT-END | BACK-END
+### 쇼핑몰 웹사이트 Double J
+---
+#### 쇼핑몰 웹사이트 FRONT-END | BACK-END
 <body>
   <br><br>
 
